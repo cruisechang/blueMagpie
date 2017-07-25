@@ -1,2 +1,2 @@
 # blueMagpie
-BlueMagipe is unity http client/server framework.
+BlueMagipe is unity http client/server framework. 
